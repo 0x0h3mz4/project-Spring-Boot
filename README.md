@@ -11,7 +11,7 @@ Marks Management is a web application built using Spring Boot that allows studen
 - Customizable grading scales and weightage for each course
 - Dynamic grade reports and analysis for each student and course
 
-##Technologies
+## Technologies
 
 - Java 8
 - Spring Boot 
